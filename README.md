@@ -1,2 +1,1 @@
-# Hardcoresalon
-Page Hardcore|salon.
+# OriginSix-HardcoreSalon
